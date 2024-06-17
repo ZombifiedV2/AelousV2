@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ZombifiedV2/AelousV2/main/Script", true))()
